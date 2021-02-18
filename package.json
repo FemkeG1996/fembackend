@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FemkeG1996/fembackend/issues"
   },
-  "homepage": "https://github.com/FemkeG1996/fembackend#readme"
+  "homepage": "https://github.com/FemkeG1996/fembackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
