@@ -1,0 +1,20 @@
+{
+  "name": "fembackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FemkeG1996/fembackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FemkeG1996/fembackend/issues"
+  },
+  "homepage": "https://github.com/FemkeG1996/fembackend#readme"
+}
